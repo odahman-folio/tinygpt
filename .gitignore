@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Weights & Corpus
+*.pt
+*.txt
+tinygpt-rocm/
